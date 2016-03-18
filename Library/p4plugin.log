@@ -1,0 +1,4 @@
+Got config end = ''
+Cannot logout when not connected
+StatusCommand::Run()
+fstat -T "movedFile,depotFile,clientFile,action,ourLock,unresolved,headAction,otherOpen,otherLock,headRev,haveRev"  "F:/Dance/ProjectSettings/AudioManager.asset" "F:/Dance/ProjectSettings/DynamicsManager.asset" "F:/Dance/ProjectSettings/EditorBuildSettings.asset" "F:/Dance/ProjectSettings/EditorSettings.asset" "F:/Dance/ProjectSettings/GraphicsSettings.asset" "F:/Dance/ProjectSettings/InputManager.asset" "F:/Dance/ProjectSettings/NavMeshLayers.asset" "F:/Dance/ProjectSettings/NetworkManager.asset" "F:/Dance/ProjectSettings/Physics2DSettings.asset" "F:/Dance/ProjectSettings/ProjectSettings.asset" "F:/Dance/ProjectSettings/QualitySettings.asset" "F:/Dance/ProjectSettings/TagManager.asset" "F:/Dance/ProjectSettings/TimeManager.asset" 

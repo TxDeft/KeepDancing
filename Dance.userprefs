@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Effects\EvaluationEffect.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Effects\EvaluationEffect.cs" Line="67" Column="49" />
+      <File FileName="Assets\Scripts\GameFlow\GameFlowController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameStart\ChooseList.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameFlow\DataBetweenScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tests\TempInit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Effects\EvaluationEffect.cs" Line="67" Column="49" />
+      <File FileName="Assets\Configs\Config.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="F:\Dance\Assets\Scripts\GameFlow\GameFlowController.cs" line="39" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

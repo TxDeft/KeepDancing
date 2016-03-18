@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 927d92253e7b55a4994bceef62ed30d3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mTexture1: {fileID: 2800000, guid: 15617af084934784da61aa92703f00e8, type: 3}
+  - mTexture2: {fileID: 2800000, guid: e0a326453e1068e45933bcfd549cc914, type: 3}
+  - mTexture3: {fileID: 2800000, guid: 84cb6047138614f4388b8e434b0df1b1, type: 3}
+  - mTexture4: {fileID: 2800000, guid: 0d00ed6d1583ed241b98e2c65315ccf4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<EachEvalScore>
+		<ScoreLowerBound>80</ScoreLowerBound>
+		<ScoreLowerBound>70</ScoreLowerBound>
+		<ScoreLowerBound>60</ScoreLowerBound>
+	</EachEvalScore>
+	<TotalEvalScore>
+		<ScoreLowerBound>80</ScoreLowerBound>
+		<ScoreLowerBound>75</ScoreLowerBound>
+		<ScoreLowerBound>70</ScoreLowerBound>
+		<ScoreLowerBound>65</ScoreLowerBound>
+		<ScoreLowerBound>60</ScoreLowerBound>
+	</TotalEvalScore>
+	<Songs>
+		<Song real_name="最炫民族风" prog_name="zuixuanminzufeng" locked="false" scene_id="0" character_id="0" BPM="127">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="148"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="5" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="3" right_hip_weight="3" left_shoulder_weight="3" right_shoulder_weight="3"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="3" right_hip_weight="3" left_shoulder_weight="4" right_shoulder_weight="4"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="3" right_hip_weight="3" left_shoulder_weight="3" right_shoulder_weight="3"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="3" right_hip_weight="3" left_shoulder_weight="4" right_shoulder_weight="4"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="3" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="3" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="3" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="3" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="3" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="3" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="0" left_shoulder_weight="5" right_shoulder_weight="0"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="0" right_hip_weight="5" left_shoulder_weight="0" right_shoulder_weight="5"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="5" left_shoulder_weight="3" right_shoulder_weight="3"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="5" left_shoulder_weight="3" right_shoulder_weight="3"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="3" right_shoulder_weight="3"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="5" right_hip_weight="0" left_shoulder_weight="3" right_shoulder_weight="3"/>
+				<Evaluation bar_num="2" torso_pos_weight="4" torso_rot_weight="0" left_hip_weight="5" right_hip_weight="0" left_shoulder_weight="3" right_shoulder_weight="3"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="5" left_hip_weight="5" right_hip_weight="0" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="5" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="5" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="0" left_shoulder_weight="4" right_shoulder_weight="4"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="5" left_hip_weight="5" right_hip_weight="2" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="5" left_hip_weight="2" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="2" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="2" left_hip_weight="3" right_hip_weight="3" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="2" left_hip_weight="3" right_hip_weight="3" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="2" left_hip_weight="3" right_hip_weight="3" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="4" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="4"/>
+				<Evaluation bar_num="2" torso_pos_weight="4" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="4" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="1" right_hip_weight="5" left_shoulder_weight="1" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="4" left_hip_weight="5" right_hip_weight="1" left_shoulder_weight="5" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="5" left_shoulder_weight="5" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="0" right_hip_weight="5" left_shoulder_weight="0" right_shoulder_weight="5"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="5" right_hip_weight="0" left_shoulder_weight="5" right_shoulder_weight="0"/>
+				<Evaluation bar_num="3" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="5" right_shoulder_weight="5"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt bar_num="4" text="text1"/>
+				<Prompt bar_num="4" text="text2"/>
+				<Prompt bar_num="2" text="text3"/>
+				<Prompt bar_num="3" text="text4"/>
+				<Prompt bar_num="2" text="text5"/>
+				<Prompt bar_num="5" text="text6"/>
+				<Prompt bar_num="2" text="text7"/>
+				<Prompt bar_num="2" text="text8"/>
+				<Prompt bar_num="2" text="text9"/>
+				<Prompt bar_num="2" text="text10"/>
+				<Prompt bar_num="1" text="text11"/>
+				<Prompt bar_num="1" text="text12"/>
+				<Prompt bar_num="1" text="text13"/>
+				<Prompt bar_num="2" text="text14"/>
+				<Prompt bar_num="6" text="text15"/>
+				<Prompt bar_num="1" text="text16"/>
+				<Prompt bar_num="6" text="text17"/>
+				<Prompt bar_num="1" text="text18"/>
+				<Prompt bar_num="1" text="text19"/>
+				<Prompt bar_num="1" text="text20"/>
+				<Prompt bar_num="3" text="text21"/>
+				<Prompt bar_num="3" text="text22"/>
+				<Prompt bar_num="5" text="text23"/>
+				<Prompt bar_num="3" text="text24"/>
+				<Prompt bar_num="2" text="text25"/>
+				<Prompt bar_num="2" text="text26"/>
+				<Prompt bar_num="1" text="text27"/>
+				<Prompt bar_num="10" text="text28"/>
+				<Prompt bar_num="2" text="text29"/>
+				<Prompt bar_num="2" text="text30"/>
+				<Prompt bar_num="3" text="text31"/>
+				<Prompt bar_num="2" text="text32"/>
+				<Prompt bar_num="3" text="text33"/>
+				<Prompt bar_num="3" text="text34"/>
+				<Prompt bar_num="2" text="text35"/>
+				<Prompt bar_num="2" text="text36"/>
+				<Prompt bar_num="8" text="text37"/>
+				<Prompt bar_num="2" text="text38"/>
+				<Prompt bar_num="2" text="text39"/>
+				<Prompt bar_num="4" text="text40"/>
+				<Prompt bar_num="2" text="text41"/>
+				<Prompt bar_num="2" text="text42"/>
+				<Prompt bar_num="4" text="text43"/>
+				<Prompt bar_num="3" text="text44"/>
+				<Prompt bar_num="2" text="text45"/>
+				<Prompt bar_num="1" text="text46"/>
+				<Prompt bar_num="4" text="text47"/>
+				<Prompt bar_num="3" text="text48"/>
+				<Prompt bar_num="4" text="text49"/>
+				<Prompt bar_num="2" text="text50"/>
+				<Prompt bar_num="2" text="text51"/>
+				<Prompt bar_num="4" text="text52"/>
+				<Prompt bar_num="2" text="text53"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="1" bar_num="30" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="30" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="32" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="32" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="40" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="40" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="42" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="44" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="46" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="78" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="78" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="80" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="82" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="84" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="86" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="88" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="90" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="90" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="92" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="94" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="105" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="105" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="107" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="109" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="111" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="113" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="115" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="115" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="117" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="119" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="121" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="130" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="130" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="132" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="134" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="136" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="138" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="138" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+				<Effect effect_id="1" bar_num="140" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="142" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="144" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="146" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="146" beat="0" flag_pos="true" pos_x="17.10328" pos_y="-8.06118" pos_z="38.43159"/>
+			</Effects>
+		</Song>
+		<Song real_name="小苹果" prog_name="xiaopingguo" locked="false" scene_id="0" character_id="0" BPM="125">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="104"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="4" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="0" right_shoulder_weight="0"/>
+				<Evaluation bar_num="4" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="0" right_shoulder_weight="0"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="2" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="4" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="4" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="0" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="2" torso_rot_weight="2" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="1" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="2" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="2" right_hip_weight="2" left_shoulder_weight="2" right_shoulder_weight="2"/>
+				<Evaluation bar_num="1" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="0" left_hip_weight="0" right_hip_weight="0" left_shoulder_weight="1" right_shoulder_weight="1"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt bar_num="4" text="text1"/>
+				<Prompt bar_num="4" text="text2"/>
+				<Prompt bar_num="2" text="text3"/>
+				<Prompt bar_num="1" text="text4"/>
+				<Prompt bar_num="1" text="text5"/>
+				<Prompt bar_num="2" text="text6"/>
+				<Prompt bar_num="1" text="text7"/>
+				<Prompt bar_num="1" text="text8"/>
+				<Prompt bar_num="1" text="text9"/>
+				<Prompt bar_num="1" text="text10"/>
+				<Prompt bar_num="1" text="text11"/>
+				<Prompt bar_num="1" text="text12"/>
+				<Prompt bar_num="1" text="text13"/>
+				<Prompt bar_num="1" text="text14"/>
+				<Prompt bar_num="1" text="text15"/>
+				<Prompt bar_num="1" text="text16"/>
+				<Prompt bar_num="1" text="text17"/>
+				<Prompt bar_num="1" text="text18"/>
+				<Prompt bar_num="2" text="text19"/>
+				<Prompt bar_num="1" text="text20"/>
+				<Prompt bar_num="1" text="text21"/>
+				<Prompt bar_num="1" text="text22"/>
+				<Prompt bar_num="1" text="text23"/>
+				<Prompt bar_num="1" text="text24"/>
+				<Prompt bar_num="1" text="text25"/>
+				<Prompt bar_num="2" text="text26"/>
+				<Prompt bar_num="1" text="text27"/>
+				<Prompt bar_num="1" text="text28"/>
+				<Prompt bar_num="2" text="text29"/>
+				<Prompt bar_num="4" text="text30"/>
+				<Prompt bar_num="4" text="text31"/>
+				<Prompt bar_num="2" text="text32"/>
+				<Prompt bar_num="1" text="text33"/>
+				<Prompt bar_num="1" text="text34"/>
+				<Prompt bar_num="2" text="text35"/>
+				<Prompt bar_num="1" text="text36"/>
+				<Prompt bar_num="1" text="text37"/>
+				<Prompt bar_num="1" text="text38"/>
+				<Prompt bar_num="1" text="text39"/>
+				<Prompt bar_num="1" text="text40"/>
+				<Prompt bar_num="1" text="text41"/>
+				<Prompt bar_num="1" text="text42"/>
+				<Prompt bar_num="1" text="text43"/>
+				<Prompt bar_num="1" text="text44"/>
+				<Prompt bar_num="1" text="text45"/>
+				<Prompt bar_num="1" text="text46"/>
+				<Prompt bar_num="1" text="text47"/>
+				<Prompt bar_num="1" text="text48"/>
+				<Prompt bar_num="2" text="text49"/>
+				<Prompt bar_num="1" text="text50"/>
+				<Prompt bar_num="1" text="text51"/>
+				<Prompt bar_num="1" text="text52"/>
+				<Prompt bar_num="1" text="text53"/>
+				<Prompt bar_num="1" text="text54"/>
+				<Prompt bar_num="2" text="text55"/>
+				<Prompt bar_num="1" text="text56"/>
+				<Prompt bar_num="1" text="text57"/>
+				<Prompt bar_num="2" text="text58"/>
+				<Prompt bar_num="2" text="text59"/>
+				<Prompt bar_num="2" text="text60"/>
+				<Prompt bar_num="1" text="text61"/>
+				<Prompt bar_num="1" text="text62"/>
+				<Prompt bar_num="2" text="text63"/>
+				<Prompt bar_num="1" text="text64"/>
+				<Prompt bar_num="1" text="text65"/>
+				<Prompt bar_num="1" text="text66"/>
+				<Prompt bar_num="1" text="text67"/>
+				<Prompt bar_num="1" text="text68"/>
+				<Prompt bar_num="1" text="text69"/>
+				<Prompt bar_num="2" text="text70"/>
+				<Prompt bar_num="1" text="text71"/>
+				<Prompt bar_num="1" text="text72"/>
+				<Prompt bar_num="1" text="text73"/>
+				<Prompt bar_num="1" text="text74"/>
+				<Prompt bar_num="2" text="text75"/>
+				<Prompt bar_num="2" text="text76"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="0" bar_num="19" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="21" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="2" bar_num="23" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="3" bar_num="25" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="0" bar_num="27" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="29" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="2" bar_num="31" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="3" bar_num="33" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="0" bar_num="35" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="63" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="2" bar_num="65" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="3" bar_num="67" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="0" bar_num="69" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="71" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="2" bar_num="73" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="3" bar_num="75" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="0" bar_num="77" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="79" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="2" bar_num="81" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="3" bar_num="83" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="0" bar_num="85" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="87" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="2" bar_num="89" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="3" bar_num="91" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="0" bar_num="93" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="95" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="2" bar_num="97" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="3" bar_num="99" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="0" bar_num="101" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+				<Effect effect_id="1" bar_num="103" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+			</Effects>
+		</Song>
+		<Song real_name="心在云上飞" prog_name="xinzaiyunshangfei" locked="true" scene_id="0" character_id="0" BPM="125">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="140"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt  bar_num="4" text="text1"/>
+				<Prompt  bar_num="4" text="text2"/>
+				<Prompt  bar_num="4" text="text3"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="0" bar_num="10" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+			</Effects>
+	    </Song>
+        <Song real_name="梦里的姑娘" prog_name="menglideguniang" locked="true" scene_id="0" character_id="0" BPM="125">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="140"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt  bar_num="4" text="text1"/>
+				<Prompt  bar_num="4" text="text2"/>
+				<Prompt  bar_num="4" text="text3"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="0" bar_num="10" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+			</Effects>
+	    </Song>
+        <Song real_name="冰雪天堂" prog_name="bingxuetiantang" locked="true" scene_id="0" character_id="0" BPM="125">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="140"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt  bar_num="4" text="text1"/>
+				<Prompt  bar_num="4" text="text2"/>
+				<Prompt  bar_num="4" text="text3"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="0" bar_num="10" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+			</Effects>
+	    </Song>
+        <Song real_name="泉水叮咚响" prog_name="quanshuidingdongxiang" locked="true" scene_id="0" character_id="0" BPM="125">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="140"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt  bar_num="4" text="text1"/>
+				<Prompt  bar_num="4" text="text2"/>
+				<Prompt  bar_num="4" text="text3"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="0" bar_num="10" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+			</Effects>
+	    </Song>		
+        <Song real_name="花心萝卜菜" prog_name="huaxinluobocai" locked="true" scene_id="0" character_id="0" BPM="125">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="140"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt  bar_num="4" text="text1"/>
+				<Prompt  bar_num="4" text="text2"/>
+				<Prompt  bar_num="4" text="text3"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="0" bar_num="10" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+			</Effects>
+	    </Song>
+        <Song real_name="最初的梦想" prog_name="zuichudemengxiang" locked="true" scene_id="0" character_id="0" BPM="125">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="140"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt  bar_num="4" text="text1"/>
+				<Prompt  bar_num="4" text="text2"/>
+				<Prompt  bar_num="4" text="text3"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="0" bar_num="10" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+			</Effects>
+	    </Song>
+        <Song real_name="平凡之路" prog_name="pingfanzhilu" locked="true" scene_id="0" character_id="0" BPM="125">
+			<Bars>
+				<SameBars beat_type="BEAT_4_4" bar_num="140"/>
+			</Bars>
+			<Evaluations>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+				<Evaluation bar_num="2" torso_pos_weight="0" torso_rot_weight="1" left_hip_weight="1" right_hip_weight="1" left_shoulder_weight="1" right_shoulder_weight="1"/>
+			</Evaluations>
+			<UserPrompts>
+				<Prompt  bar_num="4" text="text1"/>
+				<Prompt  bar_num="4" text="text2"/>
+				<Prompt  bar_num="4" text="text3"/>
+			</UserPrompts>
+			<Effects>
+				<Effect effect_id="0" bar_num="10" beat="0" flag_pos="false" pos_x="0" pos_y="0" pos_z="0"/>
+			</Effects>
+	    </Song>
+	</Songs>
+</Configuration>
